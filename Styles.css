@@ -1,0 +1,29 @@
+
+body{
+    background-color: #84a9ac;
+    font-style: italic;
+    font-size: medium;
+    font-weight: bold;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    letter-spacing: 2px;
+    line-height: 20pt;
+}
+hr{
+  background-color: #84a9ac;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+h1{
+  color: #dee3e2;
+}
+h2{
+  color: #dee3e2;
+}
+h3{
+  color: #dee3e2;
+}
+h4{
+  color: #dee3e2;
+}
