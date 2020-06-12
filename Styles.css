@@ -1,6 +1,6 @@
 
 body{
-    background-color: #84a9ac;
+    background-color: #66bfbf;
     font-style: italic;
     font-size: medium;
     font-weight: bold;
@@ -15,15 +15,7 @@ hr{
   border-width: 5px;
   width: 5%;
 }
-h1{
+h1,h2,h3,h4,h5,h6{
   color: #dee3e2;
-}
-h2{
-  color: #dee3e2;
-}
-h3{
-  color: #dee3e2;
-}
-h4{
-  color: #dee3e2;
+
 }
